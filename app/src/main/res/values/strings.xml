@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Shop List</string>
+    <string name="fruits_and_vegetables_area">Fruits and vegetables</string>
+    <string name="meat_and_fish_area">Meat and fish</string>
+    <string name="milk_and_diary_area">Milk and diary</string>
+    <string name="add_button_text">Add</string>
+</resources>
